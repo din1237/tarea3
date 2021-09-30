@@ -1,3 +1,4 @@
 # tarea3
 
-Profe esta tarea se trata de sumar números
+Tarea 3 del curso de programación FIS1220-1 de entrega el dia lunes 4 de octubre. 
+
