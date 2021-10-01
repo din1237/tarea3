@@ -1,3 +1,4 @@
 # tarea3
 
-Profe esta tarea se trata de sumar números
+Tarea N°3 de programacion con entrega el dia lunes 3 de octubre. 
+
